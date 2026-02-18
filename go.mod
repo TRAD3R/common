@@ -1,4 +1,4 @@
-module gitlab.vertical-tech.ru/gipersass/common
+module github.com/TRAD3R/common
 
 go 1.23
 
